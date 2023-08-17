@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TipCalc</string>
+    <string name="question">Сделайте прятное персоналу</string>
+    <string name="cost_hint">Введите стоймость</string>
+    <string name="ten_percent">Всё круто(10%)</string>
+    <string name="seven_percent">Хорошо(7%)</string>
+    <string name="five_percent">Спасибо(5%)</string>
+    <string name="switch_question">Округлить чаевые?</string>
+    <string name="calculated_btn">Рассчитать</string>
+    <string name="tip_amount">Оставим на чай?: %s</string>
+
+</resources>
